@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Tim Brogan\'s Tech Journals',
   tagline: 'This is Tim\'s site',
   favicon: 'img/favicon.ico',
 
