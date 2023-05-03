@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktimbrogan=self.webpackChunktimbrogan||[]).push([[4616],{4993:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/timbrogan/blog/tags/docusaurus","allTagsPath":"/timbrogan/blog/tags","count":4}')}}]);

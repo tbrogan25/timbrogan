@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktimbrogan=self.webpackChunktimbrogan||[]).push([[3956],{2963:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/timbrogan/blog/tags/hello","allTagsPath":"/timbrogan/blog/tags","count":2}')}}]);
