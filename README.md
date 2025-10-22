@@ -1,5 +1,5 @@
 ---
-description: A description of your role
+description: A description of your position
 ---
 
 # Voter Validator Position

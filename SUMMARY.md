@@ -4,7 +4,7 @@
 * [Account Creation](account-creation.md)
 * [Training](training.md)
 * [Your Environment](your-environment.md)
-* [How to validate](how-to-validate.md)
+* [How to Validate](how-to-validate.md)
 * [Understanding Validity](understanding-validity.md)
 * [Types of Invalidity](types-of-invalidity.md)
 * [Searching Effectively](searching-effectively.md)

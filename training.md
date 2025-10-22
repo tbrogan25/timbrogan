@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Training
 
 You will be trained using two real batches, or "turn-ins," of signatures.

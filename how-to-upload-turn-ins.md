@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # How to Upload Turn-Ins
 
 The following is a guide on how to upload turn-ins properly.
