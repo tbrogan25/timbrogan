@@ -358,7 +358,7 @@ Be careful not to interpret a signer's middle name as their last name. This will
 <figure><img src=".gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Be cautious a signer blends two fields too close together. They seemingly wrote "155213th" for their address. Notice my search parameters for the street number and name.&#x20;
+Be cautious when a signer blends two fields too close together. They seemingly wrote "155213th" for their address. Notice my search parameters for the street number and street name — they're hyper specific.&#x20;
 {% endhint %}
 
 ***
@@ -372,7 +372,7 @@ Be cautious a signer blends two fields too close together. They seemingly wrote 
 <figure><img src=".gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The signer either misspelled their first name, or it's incorrectly filed in the database. Searching for _\`trid_ yields no results, even though that's what is written. Regardless, always edit your queries after no results appear for a signer.
+The signer either misspelled their first name, or it's incorrectly filed in the database. Searching for _\`trid_ yields no results, even though that's what is written. Regardless, always edit your queries to try again after no results appear for a signer.
 {% endhint %}
 
 ***
@@ -386,8 +386,10 @@ The signer either misspelled their first name, or it's incorrectly filed in the 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If a city is abbreviated or initialized and you don't know its full name so you can query it, you can confidently skip it with a "." if there are enough other details in your query. If not, look up the zip code to find out the city.
+If a city is abbreviated or initialized and you don't know its full name so you can query it, you can confidently skip it with a "." as long as there are enough other details in your query. If not, look up the zip code to find out the city, then type it in.
 {% endhint %}
+
+***
 
 <figure><img src=".gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 
@@ -403,8 +405,6 @@ If the city is illegible alongside too many other fields (which prevents you fro
 
 ***
 
-
-
 <figure><img src=".gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
 
 ```
@@ -414,8 +414,10 @@ If the city is illegible alongside too many other fields (which prevents you fro
 <figure><img src=".gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-For even mildly messy handwriting, it's better to just skip those fields, like was done with the names above.&#x20;
+For even mildly messy handwriting, it's better to just skip those fields, like was done with the names above. The risk of typing a wrong character and tanking your accuracy is high when the handwriting is even moderately messy.
 {% endhint %}
+
+***
 
 <figure><img src=".gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
 
