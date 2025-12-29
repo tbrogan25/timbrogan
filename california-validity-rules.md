@@ -30,7 +30,7 @@ Once a signature is Failed, no further matching should be attempted.
 
 ***
 
-### What Makes a Signature **Good**
+### 🟢 What Makes a Signature **Good**
 
 A signature should be marked **Good** when it matches a voter record and stays within California’s allowed flexibility.
 
@@ -86,7 +86,7 @@ California is very lenient with city names.
 
 ***
 
-### What Makes a Signature **Bad**
+### 🟠 What Makes a Signature **Bad**
 
 A signature should be marked **Bad** when all fields are filled out and readable, but the signature cannot be validated.
 
@@ -102,7 +102,7 @@ Bad signatures are complete — they simply do not meet California's acceptance 
 
 ***
 
-### What Makes a Signature **Failed**
+### 🔴 What Makes a Signature **Failed**
 
 A signature should be marked **Failed** when it does not meet minimum structural requirements.
 
