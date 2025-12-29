@@ -10,4 +10,4 @@
 * [Searching Effectively](searching-effectively.md)
 * [How to Upload Turn-Ins](how-to-upload-turn-ins.md)
 * [How to Search](how-to-search.md)
-* [CA Validity rules](ca-validity-rules.md)
+* [California Validity Rules](california-validity-rules.md)
