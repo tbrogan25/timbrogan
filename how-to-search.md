@@ -437,4 +437,4 @@ Another example of _less is better_.
 
 **One wrong character** can hide the correct voter.
 
-If no results appear, **remove characters from your query** or **edit the characters,** then search again.
+If no results appear, **remove characters from your query** or **edit the characters,** then search again until you're confident that the voter doesn't exist.
