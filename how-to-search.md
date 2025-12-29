@@ -279,13 +279,13 @@ Expanding the voter will show you the zip code.
 <figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 ```
-jam ebrahim 208 "s irena" 'redondo beach'
+jam ebrahim 208 irena 'redondo beach'
 ```
 
 <figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Avoid including a street name's directional prefix in your query ("east" or "e," "south" or "s," etc.).&#x20;
+Always ignore a street name's directional prefix in your query ("east" or "e," "south" or "s," etc.).&#x20;
 {% endhint %}
 
 {% hint style="info" %}
