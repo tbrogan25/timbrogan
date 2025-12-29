@@ -210,6 +210,6 @@ Only one of these two rows should be validated as the voter. _It should always b
 
 In the following example, the first row should be validated as the correct voter because it contains the signature while the second row, which contains just her printed name, should be deleted.&#x20;
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you're only being presented with the row that doesn't contain the signature and not the row with the signature, this means that the row with the signature was already autovalidated or validated by a validator of a previous pass (if you're doing Pass 2.1) as the correct voter. In this case, delete the row with less information.
