@@ -8,10 +8,10 @@ This is the case for almost every signature for at least one field, like their n
 
 Notice how many fields are partially or fully illegible. The first name is legible (**"Derek"**), but:
 
-* The last name is messy; it starts with **“Fl”**
-* The street number is also messy; you can clearly see it ends in **“77”**
-* The street name is messy too; it starts with **“Ma”**
-* The city is messy, but contains an **"ra"** in the middle of it
+* The last name is messy; you can only confidently see that it starts with **“Fl”**
+* The street number is also messy; you can confidently see it ends in **“77”**
+* The street name is messy too; it clearly starts with **“Ma”** but the rest is up for debate
+* The city is messy, but definitively contains an **"ra"** in the middle of it
 
 Even with these minimal clues, you can still make a powerful search query that will likely return the correct voter, as long as they are in the database and you did not include any incorrect characters in your query.
 
@@ -21,9 +21,9 @@ Here's what your search will look like in this instance:
 'derek' 'fl ''77 'ma ra
 ```
 
-At first glance, this search may look unusual — but this is how you will be searching from now on.
+At first glance, this search may look unusual — but this is how you will be searching from now on. The logic behind the apostrophes will be explained soon.
 
-Remember, you are **not trying to type exactly what the signer wrote**. Their writing is too unreliable.
+Remember, you are **not trying to type exactly what the signer wrote**. Their writing is often too unreliable.
 
 Instead, you are typing **only what you see** — **small, reliable pieces of information,** or "clues," that Certifi can match to a voter.
 
@@ -92,9 +92,7 @@ If you want to **skip a field entirely**, type a single period:
 .
 ```
 
-This tells Certifi:
-
-> “Ignore this field and move to the next one.”
+This tells Certifi: **“Ignore this field and move to the next one.”**
 
 #### Example
 
@@ -112,7 +110,7 @@ This tells Certifi:
 
 ### Using Apostrophes (`'`)
 
-Apostrophes are your new tools. They tell Certifi **how strict the match should be.**
+Apostrophes are your new best friends. You will be using the single apostrophes, not the double apostrophes. You don't need to hold shift to select one. They tell Certifi **how strict the match should be.**
 
 You can search **loosely** or **very precisely**, depending on what you can read.
 
@@ -130,7 +128,7 @@ You can search **loosely** or **very precisely**, depending on what you can read
 When searching in Certifi, **less is almost always better**.
 {% endhint %}
 
-Typing too much information — especially if even **one character is wrong** — can completely prevent the correct voter from appearing. This is especially important with **street numbers,** where a single incorrect digit will eliminate the match entirely.
+If **even one character is wrong,** it can completely prevent the correct voter from appearing. The more characters you type, the more likely you are to misinterpret one and prevent the correct match from appearing at all. This is especially important with **street numbers,** where a single incorrect digit will eliminate the match entirely.
 
 For this reason, you should **always start with the loosest search possible**, using only the characters you are most confident about. Even if the search feels vague, it is often **more effective** than attempting to be precise. If you try to add extra letters or numbers and get no results, remove them and search looser again.
 
