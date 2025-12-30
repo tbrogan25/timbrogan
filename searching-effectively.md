@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Searching Effectively
 
 ### ...by searching via addresses.

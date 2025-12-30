@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # California Validity Rules
 
 For California, every signature must be categorized as **Good**, **Bad**, or **Failed**.

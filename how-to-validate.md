@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # How to Validate
 
 Validating is a simple task with a lot of nuance. Let's go over all the nuance here with some examples.

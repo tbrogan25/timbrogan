@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Types of Invalidity
 
 If you can't find a resident in the database or if you can't read the handwriting, you need to mark the signature as invalid.
