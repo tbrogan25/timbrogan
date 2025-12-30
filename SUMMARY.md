@@ -11,3 +11,4 @@
 * [How to Upload Turn-Ins](how-to-upload-turn-ins.md)
 * [How to Search](how-to-search.md)
 * [California Validity Rules](california-validity-rules.md)
+* [CA Validity Rules](ca-validity-rules.md)
