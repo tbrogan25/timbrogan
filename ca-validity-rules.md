@@ -203,7 +203,7 @@ The system may highlight mismatched counties automatically via a **yellow exclam
 
 The following always result in **Unusable** signatures:
 
-* Not every required field is filled out
+* Not every field is filled out
 * Any field is crossed out
 * The signature appears black-striped or covered in Sharpie
   * These were disqualified before upload — delete them using the red trash can button
