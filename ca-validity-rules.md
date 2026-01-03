@@ -220,7 +220,7 @@ The following always result in **Unusable** signatures:
 
 #### 🟠 Failed Match
 
-* Signature is readable and all fields are present
+* Signature is at least partially readable and all fields are present
 * Information does not match voter database
 * Includes:
   * No voter found
@@ -238,6 +238,14 @@ The following always result in **Unusable** signatures:
   * Blank fields
   * Crossed-out fields
   * Wrong county
+
+{% hint style="warning" %}
+**On illegible signatures**
+
+If a signature is **legible&#x20;**_**enough**_ that you can attempt to make a search, no matter how small, but you can't find it, it's Failed Match
+
+If a signature is **so illegible** that you can't even attempt to make a search, it's Unusable
+{% endhint %}
 
 #### 🟡 Soft Match
 
