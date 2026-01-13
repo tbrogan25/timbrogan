@@ -30,11 +30,11 @@ If you need to create a Project, click "Projects" on the left. Input your projec
 
 If you need to create a Coordinator, click "Coordinators" on the left. Input the coordinator's first and last name and organization, then select "Quick Add" to create them.
 
-<div data-full-width="true"><figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="true"><figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 If you need to create a Petitioner, click "Petitioners" on the left. Input the petitioner's first and last name, then select "Quick Add" to create them.
 
-<div data-full-width="true"><figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="true"><figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 
 

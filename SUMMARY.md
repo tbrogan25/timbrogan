@@ -12,3 +12,4 @@
 * [How to Search](how-to-search.md)
 * [California Validity Rules](california-validity-rules.md)
 * [CA Validity Rules](ca-validity-rules.md)
+* [How to Manually Splice](how-to-manually-splice.md)

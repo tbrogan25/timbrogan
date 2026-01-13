@@ -18,7 +18,7 @@ The AI result for the address and municipality will automatically be searched in
 
 Here's an example signature image:
 
-<figure><img src=".gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The address is semi-legible: "63 Forest St"
 
@@ -26,7 +26,7 @@ It looks like the AI accurately read the address.
 
 Then I look for the municipality, which is written at the bottom of the sheet on the right: "Attleboro"
 
-<figure><img src=".gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The municipality is also included in the AI's translation above the signature image. Be careful - it's not always correct, as it's an attempted translation of the text at the bottom. Always check the bottom of the sheet to make sure it's accurate.&#x20;
 
