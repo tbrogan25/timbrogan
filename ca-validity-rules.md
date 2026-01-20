@@ -13,8 +13,7 @@ You will work with the following validity outcomes:
   signer is not registered to vote with the information they provided.
 * **Unusable:** The signature is not readable or not properly formatted,  \
   regardless of whether the signer is registered to vote or not.
-* **Soft Match:** The signature has a unique name that matches only one voter record in the state,  \
-  but the address and/or city does not match.
+* **Wrong County:** The signer is not registered in the same county as the county listed on the sheet.
 
 The sections below first explain **what is acceptable or unacceptable by field**, because this is the easiest way to learn and memorize the rules. After that, you’ll find a summary section explaining **when to use each validity option**.
 
@@ -125,34 +124,7 @@ For streets with multiple words:
 
 If the signer’s name matches one or more voter records, but the address and/or city does not align, this is generally a **Failed Match**.
 
-However, there is one important exception: **Soft Matches**.
-
-#### Soft Match (Special Case)
-
-A **Soft Match** occurs when:
-
-* The signer has a **unique or rare name**, and
-* That name matches **only one voter record in the entire state**, and
-* The signed address and/or city does not match the database.
-
-In these cases, the signer is most likely the same person, but the address mismatch prevents the signature from being truly valid.
-
-Examples:
-
-* _Lillith Ventura_ appears only once in CA → likely the same person, even if the address differs → **Soft Match**
-* _Tim Smith_ appears many times in CA → cannot confidently identify → **Failed Match**, not Soft Match
-
-When you encounter a Soft Match:
-
-* Mark the signature as **Soft Match**
-* You will be prompted to select the voter entry
-* This information is sent to the client, who may be able to recover the signature
-
-{% hint style="warning" %}
-**Soft Match should be used sparingly:**
-
-Only use it when the signer’s name uniquely matches one voter record statewide.
-{% endhint %}
+Even if you think beyond a reasonable doubt that the signer is a certain voter record due to their unique or rare name but the address doesn't match (a soft match), you need to mark these as a **Failed Match**.
 
 #### PO Boxes
 
@@ -183,6 +155,7 @@ Valid scenarios:
 Invalid scenario:
 
 * City incorrect **and** ZIP incorrect → **Failed Match**
+* Either the city or zip are missing
 
 ***
 
@@ -217,6 +190,7 @@ The following always result in **Unusable** signatures:
 * Signature meets CA rules
 * Voter is selected
 * Minor, acceptable discrepancies only
+* If all required information is present but simply on the wrong lines, still valid&#x20;
 
 #### 🟠 Failed Match
 
@@ -247,11 +221,17 @@ If a signature is **legible&#x20;**_**enough**_ that you can attempt to make a s
 If a signature is **so illegible** that you can't even attempt to make a search, it's Unusable
 {% endhint %}
 
-#### 🟡 Soft Match
+#### 🟡 Wrong County
 
-* A unique signer matches exactly one voter statewide
-* Address and/or city mismatch prevents validation
-* Voter must be selected and sent to client
+* Signer is not registered in the same county as the county listed on the sheet
+* Quickly compare the county of a potential match to the county written on the sheet
+* If the county of the voter does not match the written county, mark the signature as **Wrong County**
+
+{% hint style="warning" %}
+Some petitions have a backside, or multiple pages. The county is typically written on the first or front page only.
+
+For backsides or sheets without a county written on them, validate signatures without considering the county.&#x20;
+{% endhint %}
 
 ***
 
@@ -317,7 +297,7 @@ Once you know that, the correct validity option becomes obvious
 
 If something is readable but mismatched → **Failed Match**\
 If something is structurally wrong → **Unusable**\
-If the signer is unique but mismatched → **Soft Match**\
+If the signer's county does not match the written county → **Wrong County**\
 If everything lines up → **Valid**
 
 Consistency matters more than speed.
