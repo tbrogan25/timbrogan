@@ -166,9 +166,9 @@ Each petition sheet includes a county line, which is spliced out and presented t
 * Every voter on the sheet **must be registered in that county**.
 * If you find a voter match from a different county, do **not** validate it.
 
-This is **Unusable**.
+This is **Wrong Town**.
 
-The system may highlight mismatched counties automatically via a **yellow exclamation point**, but this does not always work. Always double-check county alignment manually.
+Always double-check county alignment manually.
 
 ***
 
