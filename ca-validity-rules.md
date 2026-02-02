@@ -25,14 +25,14 @@ The sections below first explain **what is acceptable or unacceptable by field**
 
 First names are flexible.
 
-* First names **can** be shortened, abbreviated, or initialized.
+* First names **can** be shortened or abbreviated, although **not** initialized.
 * Common and reasonable nicknames are acceptable.
 
 Examples:
 
 * _Michael → Mike_
 * _Elizabeth → Liz_
-* _Derek → Der or D_
+* _Derek → Der_
 
 If everything else matches, this is still **Valid**.
 
@@ -201,6 +201,7 @@ The following always result in **Unusable** signatures:
   * Address mismatch
   * Married name mismatch
   * Both city and ZIP incorrect
+  * First name is initialized (_T. Brogan)_
 
 #### 🔴 Unusable
 
