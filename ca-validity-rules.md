@@ -13,7 +13,7 @@ You will work with the following validity outcomes:
   signer is not registered to vote with the information they provided.
 * **Unusable:** The signature is not readable or not properly formatted,  \
   regardless of whether the signer is registered to vote or not.
-* **Wrong County:** The signer is not registered in the same county as the county listed on the sheet.
+* **Wrong County:** The signer is not registered in the same county/city as the county/city listed on the sheet.
 
 The sections below first explain **what is acceptable or unacceptable by field**, because this is the easiest way to learn and memorize the rules. After that, you’ll find a summary section explaining **when to use each validity option**.
 
@@ -28,7 +28,7 @@ First names are flexible.
 * First names **can** be shortened or abbreviated, although **not** initialized.
 * Common and reasonable nicknames are acceptable.
 
-Examples of valid shortenings:
+Examples of valid nicknames and shortenings:
 
 * _Michael → Mike_
 * _Elizabeth → Liz_
@@ -127,7 +127,7 @@ For streets with multiple words:
 
 * Writing only the first word is acceptable.
 * Shortening one or both words is acceptable.
-* Initializing **all** words is not acceptable and should be marked as a **Failed Match**.
+* Initializing **all** words is not acceptable and should be marked as a **Failed Match**. You can't tell what they're trying to indicate.
 
 #### Address Mismatch Scenarios
 
@@ -166,6 +166,9 @@ Valid scenarios:
 Invalid scenario:
 
 * City incorrect **and** ZIP incorrect → **Failed Match**
+* City missing **and** ZIP incorrect  → **Failed Match**
+* ZIP missing **and** city incorrect → **Failed Match**
+* City missing **and** ZIP missing → **Unusable**
 
 ***
 
@@ -178,7 +181,7 @@ Each petition sheet includes a county line, which is spliced out and presented t
 
 This is **Wrong County**.
 
-Always double-check county alignment manually.
+Always double-check county compliance manually.
 
 ***
 
@@ -226,6 +229,8 @@ If any fields are blank but the necessary information is squeezed in elsewhere, 
 <figure><img src=".gitbook/assets/image (185).png" alt=""><figcaption><p>City and zip are on the address line, "SF 94122"</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (184).png" alt=""><figcaption><p>City and zip are on the address line</p></figcaption></figure>
+
+If the information is _not_ squeezed in elsewhere, it is **Unusable**.
 
 ***
 
