@@ -431,6 +431,22 @@ For even mildly messy handwriting, it's better to just skip those fields, like w
 Another example of _less is better_.
 {% endhint %}
 
+### Soft Search
+
+The "strict search" is the normal search you've learned about this whole time
+
+The "soft search" is meant to be more forgiving of cases where you're just a little bit off
+
+<figure><img src=".gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+
+It allows you to find a higher rate of valid signatures that you couldn't find with the strict search.
+
+{% hint style="danger" %}
+Use the soft search every time you can't find a voter, and vice versa with the strict search.&#x20;
+
+I recommend starting with the strict search, then using the soft search if you can't find the voter.
+{% endhint %}
+
 ### Final Reminder
 
 **Start searching loosely.** Type less. Add only what **you’re certain about.**
