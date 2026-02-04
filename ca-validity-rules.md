@@ -234,6 +234,14 @@ If the information is _not_ squeezed in elsewhere, it is **Unusable**.
 
 ***
 
+### Blank Rows
+
+Delete these using the red trash can icon. They were likely unintentionally captured during processing.
+
+<figure><img src=".gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
+
+***
+
 ### Blackstriped Signatures
 
 If the signature appears black-striped or covered in Sharpie, the client did this and wants us to disregard this.&#x20;
