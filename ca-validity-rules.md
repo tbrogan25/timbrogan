@@ -131,7 +131,7 @@ For streets with multiple words:
 
 #### Address Mismatch Scenarios
 
-If the signer’s name matches one or more voter records, but the address and/or city does not align, this is generally a **Failed Match**.
+If the signer’s name matches one or more voter records, but the address does not align, this is generally a **Failed Match**.
 
 Even if you think beyond a reasonable doubt that the signer is a certain voter record due to their unique or rare name but the address doesn't match (a soft match), you need to mark these as a **Failed Match**.
 
@@ -287,9 +287,10 @@ Always use the soft search if you can't find a voter with the strict search.
 * Information simply does not match voter database
 * Includes:
   * No voter found&#x20;
-  * Address mismatch (wrong address)
+  * Address mismatch (wrong address/street number)
+  * Initializing all words in a multi-word street name
   * Married name mismatch
-  * Both city and ZIP incorrect
+  * Both city and ZIP are incorrect
 
 #### 🔴 Unusable
 
@@ -300,6 +301,7 @@ Always use the soft search if you can't find a voter with the strict search.
   * Missing street number
   * PO Box in address
   * Crossed-out fields that _do not_ have the necessary information rewritten somewhere
+  * Blank fields that _do not_ have the necessary information rewritten somewhere
 
 #### 🟡 Wrong County
 
