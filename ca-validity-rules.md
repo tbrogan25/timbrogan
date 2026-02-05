@@ -135,6 +135,10 @@ If the signer’s name matches one or more voter records, but the address does n
 
 Even if you think beyond a reasonable doubt that the signer is a certain voter record due to their unique or rare name but the address doesn't match (a soft match), you need to mark these as a **Failed Match**.
 
+#### Missing Street Name
+
+Missing street name → **Unusable**
+
 #### PO Boxes
 
 If a PO Box or other non-address information appears in the address field, the signature must be marked as **Unusable**.
@@ -306,7 +310,7 @@ Always use the soft search if you can't find a voter with the strict search.
 * Includes:
   * First name is initialized (_T. Brogan)_
   * Last name is abbreviated, shortened, or initialized
-  * Missing street number
+  * Missing information like signature, street number, street name
   * PO Box in address
   * Crossed-out fields that _do not_ have the necessary information rewritten somewhere
   * Blank fields that _do not_ have the necessary information rewritten somewhere
