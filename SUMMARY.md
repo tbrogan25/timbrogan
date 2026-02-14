@@ -13,4 +13,4 @@
 * [Searching Effectively](searching-effectively.md)
 * [How to Upload Turn-Ins](how-to-upload-turn-ins.md)
 * [California Validity Rules](california-validity-rules.md)
-* [Your Role](your-role.md)
+* [Your Role](validator.md)

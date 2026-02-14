@@ -6,7 +6,7 @@ Sometimes, the AI does not splice correctly. If you're reading this, you have be
 
 1. Identify if any rows on the sheet have not been spliced or have been badly spliced. The below image is an example of a sheet where no rows were spliced
 
-<div data-full-width="true" data-with-frame="true"><figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="true" data-with-frame="true"><figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
 
 2. To delete bad splices and then re-splice them, click the trashcan icon for each bad splice. Once you've done that, click "Apply." Now, you can resplice them.
 
@@ -14,7 +14,7 @@ Sometimes, the AI does not splice correctly. If you're reading this, you have be
 
 To splice, click "Add New Row"
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. On the left, select a corner of the signature that needs splicing and drag to encompass it in its entirety
 
