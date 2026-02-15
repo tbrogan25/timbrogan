@@ -14,10 +14,10 @@ That’s where you come in.
 
 As a validator, you will:
 
-* Review images of petition signatures
-* Search for signers in a voter database using accurate queries
-* Categorize signatures (valid, invalid, etc.)
-* Follow strict validation rules and internal guidelines
+* Read a handwritten name and address from a scanned image
+* Visually match, or manually transcribe that information into a search box
+* If a match appears in the search results, select it to mark the signature as valid
+* Categorize signatures based on strict validation rules and internal guidelines
 * Maintain high accuracy
 
 All work is audited for accuracy. Because campaigns rely on our data, maintaining high accuracy is mandatory. Validators must meet minimum accuracy standards to remain active.
@@ -68,16 +68,16 @@ Prior experience in data entry, auditing, compliance, or other typing-based role
 
 If you are interested, the onboarding process is fully self-guided.
 
-1. You will first read documentation explaining our validation rules.
+1. You will first read documentation explaining our validation system and rules.
    1. .
    2. .
    3. .
 2. After that, take **this quiz** based on the material. A score of 100% is required to continue.
 3. You will then complete a training batch of signatures.
 
-If you score 100% on the quiz, you will receive an email invitation to create a Certifi account and complete the training batch.
+If you score 100% on the quiz, you will receive an email invitation to create a Certifi account and complete the training batch, as well as an invitation to our Discord community server to ask questions.
 
-Your training work will be graded to determine whether it meets our minimum acceptance standard. Training is unpaid; however, once you pass, you will be added to our Discord community server and may immediately begin validating and earning.&#x20;
+Your training work will then be graded to determine whether it meets our minimum acceptance standard. Training is unpaid; however, once you pass, you may immediately begin validating and earning.&#x20;
 
 
 

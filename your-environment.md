@@ -4,15 +4,9 @@ Validating is a simple task with a lot of nuance. Let's go over all the nuance h
 
 When we refer to a "signature," we are referring to the entire row of one person's handwritten data, not just the actual signature.
 
-Here at Certifi, we validate signatures via a three-pass process:
+There are three "passes" that signatures may need to go through:
 
-
-
-* Basic Pass: The first pass of validation where signatures that were autovalidated using AI are reviewed in the form of a visual comparison to detect any false positives made by the AI.
-* Expert Pass: The second pass of validation where signatures that were manually marked invalid in Basic are reviewed with a searchable interface to likely match the correct voter.
-* First Pass: The last pass of validation where a decision is made for the signatures that the AI did not autovalidate.
-
-## First
+## Search
 
 The first pass is the one and only time a signature is validated. Only the signatures that weren't autovalidated are seen in the first pass. Compensation for this pass is $0.05 per signature.
 
@@ -82,7 +76,7 @@ Lastly, on the right side of your screen is the full petition sheet which you'll
 
 <figure><img src=".gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
-## Basic
+## Match
 
 In Basic, you will only see signatures that were initially marked as valid by the AI.
 
@@ -114,7 +108,7 @@ Don't forget about the live zoom feature that works for both the splice and the 
 
 <figure><img src=".gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
-## Expert
+## Splicing
 
 In Expert, you will only see signatures that the Basic validator marked invalid.
 
