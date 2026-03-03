@@ -18,7 +18,7 @@ The AI result for the address and municipality will automatically be searched in
 
 Here's an example signature image:
 
-<figure><img src=".gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The address is semi-legible: "63 Forest St"
 
@@ -26,13 +26,13 @@ It looks like the AI accurately read the address.
 
 Then I look for the municipality, which is written at the bottom of the sheet on the right: "Attleboro"
 
-<figure><img src=".gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The municipality is also included in the AI's translation above the signature image. Be careful - it's not always correct, as it's an attempted translation of the text at the bottom. Always check the bottom of the sheet to make sure it's accurate.&#x20;
 
 In this case, looks like the AI accurately read the municipality too.
 
-<figure><img src=".gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Now that you know where to find the municipality, let's see the results.<br>
 
@@ -152,11 +152,11 @@ We always keep Google Maps open in another tab. This is because we can use it to
 
 If we think we're misreading an address due to messy handwriting, we can type the address into Google Maps and see if it exists. If nothing appears, then we know we're reading the address wrong. Sometimes it can even autocorrect the name.
 
-<figure><img src=".gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If it doesn't autocorrect, then we type what we think the address is into Google which prompts Zillow listings to appear with the correct street name.
 
-<figure><img src=".gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Marking a signature invalid
 
@@ -227,7 +227,7 @@ Only mark one of them valid if you can tell which person it is, usually by a dif
 
 Sometimes, people cross out their information after signing a sheet. Sometimes, our AI does not detect if a signature is crossed out and still presents it to you for validation. Press the red trashcan icon to delete these types of signatures.
 
-<figure><img src=".gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Undoing a Signature
 

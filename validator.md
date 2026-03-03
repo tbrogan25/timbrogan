@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Your Role
 
 Before understanding the position, it’s important to understand what we do. Your role will make a lot more sense.
