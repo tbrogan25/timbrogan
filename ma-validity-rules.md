@@ -328,3 +328,9 @@ These cannot be validated. They were crossed out so they would not be considered
 The second example is when a row doesn't actually have a signature in it, or has only a half of an attempted signature. These aren't meant to be validated. Please delete these as well.
 
 <figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+
+### Pay
+
+* Search: 5 cents/sig
+* Match valids: 2 cents/sig
+* Match invalids: 4 cents/sig
