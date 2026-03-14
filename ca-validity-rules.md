@@ -104,14 +104,13 @@ This tells Certifi: **“Ignore this field and move to the next one.”**
 Here's an example
 
 ```
-mary . 79 . attleboro
+. illi 15230 parth
 ```
 
-* First name is **"mary"**
-* Last name is skipped
-* Street number is **"79"**
-* Street name is skipped
-* City name is **"attleboro"**
+* First name is skipped
+* Last name contains **"illi"**
+* Street number contains **"15230"**
+* Street name contains **"parth"**
 
 <figure><img src=".gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
 
