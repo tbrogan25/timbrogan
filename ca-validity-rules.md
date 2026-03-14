@@ -13,7 +13,6 @@ You will work with the following validity outcomes:
   signer is not registered to vote with the information they provided.
 * **Unusable:** The signature is not readable or not properly formatted,  \
   regardless of whether the signer is registered to vote or not.
-* **Wrong County:** The signer is not registered in the same county/city as the county/city listed on the sheet.
 
 The sections below first explain **what is acceptable or unacceptable by field**, because this is the easiest way to learn and memorize the rules. After that, you’ll find a summary section explaining **when to use each validity option**.
 
@@ -39,7 +38,7 @@ If everything else matches, this is still **Valid**.
 Examples of invalid initializations:
 
 * _Tim Brogan → T Brogan_
-* _Patrick Powers → P Powers_
+* _Brendan James Powers → BJ Powers_
 
 These are **Unusable**.
 
@@ -47,12 +46,17 @@ These are **Unusable**.
 
 #### Last Name
 
-Last names are **not flexible**.
+Last names are **not as flexible**.
 
-* Last names **cannot** be shortened, abbreviated, initialized, or otherwise altered.
-* The written last name must match the voter database exactly.
+They **cannot** be majorly shortened, abbreviated, or initialized.
 
-There are two important exceptions:
+There are three important exceptions:
+
+**Messiness/Misspellings**
+
+If a last name is messy and looks like it's missing a few letters, this can still be valid.
+
+If a last name is misspelled or missing a minor amount of letters, this can still be valid.
 
 **Double Last Names**
 
@@ -68,10 +72,12 @@ Sometimes double last names appear in the voter database as a single word, witho
 
 Real Example:
 
-* Signer writes last name: **Velez**
-* Voter database shows last name: **Veleznavarro**
+* Signer writes last name: SMITH
+* Voter database shows last name: **SMITHTILLERY**
 
 At first glance, this may look unusable. However, this is actually a **Valid** signature. Be on the lookout for these cases and take a moment to confirm whether the database last name is actually two names combined.
+
+![](.gitbook/assets/image.png)
 {% endhint %}
 
 **Married Name Changes**
@@ -110,16 +116,8 @@ Outcomes:
 
 #### Street Names
 
-Street names can be flexible, but not vague.
-
-* Street names may be **reasonably** shortened, abbreviated, or contain minor spelling errors and still be **Valid**.
-* Street names **cannot** be fully initialized.
-
-Example of unacceptable initialization:
-
-* _10 LB St_ for _10 Long Beach St_
-
-This could mean multiple different streets and cannot be reliably interpreted.
+* A street number **must be present**.
+* Street names may be shortened, abbreviated, or contain minor spelling errors and still be **Valid**.
 
 **Multi-Word Street Names**
 
@@ -127,17 +125,10 @@ For streets with multiple words:
 
 * Writing only the first word is acceptable.
 * Shortening one or both words is acceptable.
-* Initializing **all** words is not acceptable and should be marked as a **Failed Match**. You can't tell what they're trying to indicate.
 
-#### Address Mismatch Scenarios
+Outcomes:
 
-If the signer’s name matches one or more voter records, but the address does not align, this is generally a **Failed Match**.
-
-Even if you think beyond a reasonable doubt that the signer is a certain voter record due to their unique or rare name but the address doesn't match (a soft match), you need to mark these as a **Failed Match**.
-
-#### Missing Street Name
-
-Missing street name → **Unusable**
+* Missing street name → **Unusable**
 
 #### PO Boxes
 
@@ -178,49 +169,39 @@ Invalid scenario:
 
 ### County Rules
 
-Each petition sheet includes a county line, which is spliced out and presented to you.
+#### Sheet County
 
-* Every voter on the sheet **must be registered in that county**.
-* If you find a voter match from a different county, do **not** validate it.
+Each petition sheet includes a county line, where the county is written by the signature-gatherer. Sometimes this will be spliced out and presented to you, sometimes not.
 
-This is **Wrong County**.
+You must tag the county of the sheet in the COUNTY dropdown in the top left.
 
-Always double-check county compliance manually.
+This only needs to be done once per sheet and you will be prompted to do so if it isn't filled out.
 
-***
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-### City Rules
+If you don't see a splice for the county, find it by looking at the full sheet on the right.
 
-A minority of petitions are city-wide petitions, not county-wide petitions. These petitions don't have a city line with the city written. Rather, the entire petition is only for one city or town. These are called "city-wides," or "municipal petitions."
+If there's no county, select NO COUNTY.
 
-You can see the name of the city on the top of the sheet in a similar spot as the county line on the other petitions. On these sheets:
+#### Signature County
 
-* Every voter on the sheet **must be registered in that city**.
-* If you find a voter match from a different city, do **not** validate it.
+If you mark a signature as Failed Match, you will be prompted to enter the signer's city or zip code.
 
-This is **Wrong County**.
+This is so we can determine what county the signer is from on our end.
 
-(It would technically be Wrong City, but we only have one button for this option for now.)
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-Notice the text: "Signers Must Be Registered Voters of the City of Los Angeles" at the top.
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
+Select the correct city/zip code and click Submit.
 
-{% hint style="danger" %}
-There are a lot of neighborhoods and villages of Los Angeles, as well as other big cities in CA.
-
-Notice on this sheet that a lot of signers are not from LA, writing "Van Nuys" or "NoHo" for "North Hollywood." These are _**neighborhoods of LA**_, so they would be valid if you can find the voter.
-
-Please be vigilant at first and Google whether these places are neighborhoods or not. You will quickly memorize which are and which aren't.
-
-On this sheet, "Burbank" is it's own city, and should be marked **Wrong County**.
-{% endhint %}
+<figure><img src=".gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ### Mismatched Fields
 
-If all of the necessary information is present and there are no blank lines, but some fields are just swapped, the signature is still valid.
+If all of the necessary information is present but some fields are just swapped, the signature is still valid.
 
 <figure><img src=".gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
 
@@ -260,13 +241,17 @@ These were disqualified before upload — delete them using the red trash can bu
 
 Signatures where one or more (but not all) fields are crossed out are **Unusable**&#x20;
 
+This is the equivalent of the street number and name being missing
+
 <figure><img src=".gitbook/assets/image (181).png" alt=""><figcaption><p>Unusable</p></figcaption></figure>
 
 Signatures where _all_ fields or the entire box are crossed out should be **deleted**
 
 <figure><img src=".gitbook/assets/image (182).png" alt=""><figcaption><p>Delete</p></figcaption></figure>
 
-We want to delete signatures that are **clearly marked for deletion by the petitioner themselves** before being sent to us. This is the same reason why we delete **blackstriped signatures**: they are clearly marked for deletion to ensure that we do not consider them.
+We want to delete signatures that are **clearly marked for deletion by the petitioner themselves** before being sent to us.
+
+This is the same reason why we delete **blackstriped signatures**: they are clearly marked for deletion to ensure that we do not consider them.
 
 But for signatures where only one or more fields are crossed out, _but other parts of the signature are still present_, it is not marked for deletion; the signature-gatherer still submitted it to us.
 
@@ -295,12 +280,10 @@ Always use the soft search if you can't find a voter with the strict search.
 
 #### 🟠 Failed Match
 
-* Signature is at partially readable and all fields are present
+* Signature is at least partially readable and all fields are present
 * Information simply does not match voter database
 * Includes:
   * No voter found&#x20;
-  * Address mismatch (wrong address/street number)
-  * Initializing all words in a multi-word street name
   * Married name mismatch
   * Both city and ZIP are incorrect
 
@@ -309,23 +292,11 @@ Always use the soft search if you can't find a voter with the strict search.
 * Signature is structurally disqualified or totally illegible
 * Includes:
   * First name is initialized (_T. Brogan)_
-  * Last name is abbreviated, shortened, or initialized
-  * Missing information like signature, street number, street name
+  * Last name is majorly abbreviated, shortened, or initialized
+  * Missing information like signature, printed name, street number, street name, and both city and zip
   * PO Box in address
   * Crossed-out fields that _do not_ have the necessary information rewritten somewhere
   * Blank fields that _do not_ have the necessary information rewritten somewhere
-
-#### 🟡 Wrong County
-
-* Signer is not registered in the same county/city as the county/city listed on the sheet
-* Quickly compare the county of a potential match to the county written on the sheet
-* If the county of the voter does not match the written county, mark the signature as **Wrong County**
-
-{% hint style="warning" %}
-Some petitions have a backside, or multiple pages. The county is typically written on the first or front page only.
-
-For backsides or sheets without a county written on them, validate signatures without considering the county.&#x20;
-{% endhint %}
 
 ***
 
@@ -333,15 +304,15 @@ For backsides or sheets without a county written on them, validate signatures wi
 
 <figure><img src=".gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
 
-**🔴 Unusable** — The last name appears to be shortened.
+**🔴 Unusable** — The last name appears to be initialized.
 
 ***
 
 <figure><img src=".gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
 
-**🔴 Unusable** — The last name is omitted.
-
 <figure><img src=".gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
+
+**🔴 Unusable** — The last name is omitted.
 
 ***
 
@@ -389,9 +360,12 @@ Learn what is acceptable **by field first**.
 
 Once you know that, the correct validity option becomes obvious
 
-If something is readable but mismatched → **Failed Match**\
+If something is readable but not in the database → **Failed Match**\
 If something is structurally wrong → **Unusable**\
-If the signer's county does not match the written county → **Wrong County**\
 If everything lines up → **Valid**
 
 Consistency matters more than speed.
+
+Good luck everyone!
+
+\~ Tim B

@@ -6,6 +6,7 @@
 * [How to Search](how-to-search.md)
 * [CA Validity Rules](ca-validity-rules.md)
 * [How to Manually Splice](how-to-manually-splice.md)
+* [MA Validity Rules](ma-validity-rules.md)
 * [Training](training.md)
 * [How to Validate](how-to-validate.md)
 * [Understanding Validity](understanding-validity.md)
@@ -17,4 +18,3 @@
 * [Your Environment](your-environment-1.md)
 * [How You Search](how-you-search.md)
 * [CA Validity Rules](ca-validity-rules-1.md)
-* [MA Validity Rules](ma-validity-rules.md)
