@@ -4,6 +4,195 @@ description: This document explains how to apply California validity rules in Ce
 
 # CA Validity Rules
 
+Validation is straightforward.&#x20;
+
+There are two types of validation: Match & Search
+
+### Match
+
+Match validation is where you'll compare a signature to a pre-made validation decision.
+
+The all-caps bolded text above the signature image is the validation decision.&#x20;
+
+<figure><img src=".gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
+
+Your job is to compare this decision to the actual signature image and determine if they match.
+
+<figure><img src=".gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+
+You do not need to compare the county decision to the written county on the sheet. You can ignore this. If they don't match, it's fine.
+
+<figure><img src=".gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
+
+As long as the core information matches, it's a match.
+
+{% hint style="info" %}
+**Core information:**
+
+* First name
+* Last name
+* Street number
+* Street name
+* Town/city
+{% endhint %}
+
+Comfortably ignore middle names, apartment numbers, zip codes, street endings (St., Ln., Ave.), etc. They do not need to match.
+
+The core information does not need to match the pre-made validation decision exactly.&#x20;
+
+Spelling errors, additional information, and out-of-order information (street THEN name), are all allowed, as long as the core information is present.
+
+{% hint style="info" %}
+To indicate a match: press V
+
+To indicate a non-match: press X
+{% endhint %}
+
+### Search
+
+Search validation is where you'll search for a signature that does not have a pre-made validation decision.
+
+The county will be located above the signature image.
+
+<figure><img src=".gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+
+Your job is to find the signer from the database, and if they're not there, then you must mark it as the correct invalidity reason.
+
+Here's an example of a typical signature:
+
+<figure><img src=".gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
+
+Here's what you might search:
+
+<figure><img src=".gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
+
+#### Search Order
+
+The searchbar reads your search **left to right** in this exact order:
+
+1. First Name
+2. Last Name
+3. Street Number
+4. Street Name
+5. City
+6. Zip code
+
+Each space separates one field.
+
+**Always use this order. Do not deviate from it.**
+
+#### Minimum Characters Per Field
+
+When you enter a value for a field, you must type **at least two characters** for Certifi to search it.
+
+One character is **not enough,** except for the street number.
+
+**Rule of thumb:** If you only know one character, **skip the field.**
+
+***
+
+#### Skipping a Field
+
+If you want to **skip a field entirely**, type a single period:
+
+```
+.
+```
+
+This tells Certifi: **“Ignore this field and move to the next one.”**
+
+Here's an example
+
+```
+mary . 79 . attleboro
+```
+
+* First name is **"mary"**
+* Last name is skipped
+* Street number is **"79"**
+* Street name is skipped
+* City name is **"attleboro"**
+
+<figure><img src=".gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
+
+The signer was found! They are the first and only entry.
+
+#### Searching Strategy
+
+Search for whatever is clearest first.
+
+This is usually the address (because people usually sign their names and print their address).
+
+<figure><img src=".gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
+
+The above example has a very clear address, allowing you to find the voter (second result).
+
+<figure><img src=".gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
+
+If **even one character is wrong,** it can completely prevent the correct voter from appearing.
+
+The more characters you type, the more likely you are to misinterpret one and prevent the correct match from appearing at all.
+
+For this reason, you should **always start with what is very clearly written**, using only the characters you are most confident about. If you get no results, remove a few characters and search looser again.
+
+Once results appear, **then** tighten the search by adding more characters to narrow them down — never the other way around.
+
+{% hint style="danger" %}
+A loose search that returns results is **always better** than a precise search that returns nothing.
+{% endhint %}
+
+Many missed matches happen not because the voter isn’t in the database, but because **too much information was typed too early**.
+
+However, if you still can't find a signer after loosening then tightening your search, you must use the _"_&#x53;oft search."
+
+### Soft- and Strict-Searching
+
+If you can't find a signature using the strict search or if it's too illegible for you to gather enough information to use the strict search, toggle on the soft search.&#x20;
+
+The "strict search" is the normal search you've learned about this whole time.
+
+The "soft search" is meant to be more forgiving of cases where the spelling in your search query is just a little bit off.
+
+Click this button and you'll know the soft search is activated when the searchbar becomes blue.
+
+<figure><img src=".gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+
+It allows you to find a higher rate of valid signatures that you couldn't find with the strict search.
+
+The soft search requires less accuracy, so minor spelling errors are allowed (although not too many).
+
+{% hint style="danger" %}
+Always use the soft search if you can't find a voter with the strict search.
+{% endhint %}
+
+Do not rely on it to understand your guesses. One too many spelling errors, and it will fail to find your voter. It will not always find your misspelled searches.
+
+Here's an example where it works:
+
+<figure><img src=".gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
+
+Let's say you search the following:
+
+```
+doris volpen 15149
+```
+
+<figure><img src=".gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
+
+Nothing appears.&#x20;
+
+Then, you toggle on the soft search.
+
+<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
+
+It worked!&#x20;
+
+I was unknowingly misspelling her last name as "volpen" when it was "volper"
+
+Remember to always try the strict search first followed by the soft search if you still can't find the voter.
+
 ### Validity Options
 
 You will work with the following validity outcomes:
@@ -256,18 +445,6 @@ This is the same reason why we delete **blackstriped signatures**: they are clea
 But for signatures where only one or more fields are crossed out, _but other parts of the signature are still present_, it is not marked for deletion; the signature-gatherer still submitted it to us.
 
 ***
-
-### Soft- and Strict-Searching
-
-If you can't find a signature using the strict search or if it's too illegible for you to gather enough information to use the strict search, toggle on the soft search.&#x20;
-
-The soft search requires less accuracy, so minor spelling errors are allowed (although not too many).
-
-{% hint style="danger" %}
-Always use the soft search if you can't find a voter with the strict search.
-{% endhint %}
-
-<figure><img src=".gitbook/assets/image (189).png" alt=""><figcaption><p>Soft search is on</p></figcaption></figure>
 
 ### Validity Summary (How to Categorize)
 
