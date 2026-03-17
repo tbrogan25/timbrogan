@@ -545,3 +545,9 @@ Consistency matters more than speed.
 Good luck everyone!
 
 \~ Tim B
+
+### Pay
+
+* Search: 12 cents/sig
+* Match valids: 2 cents/sig
+* Match invalids: 4 cents/sig
