@@ -7,6 +7,7 @@
 * [CA Validity Rules](ca-validity-rules.md)
 * [How to Manually Splice](how-to-manually-splice.md)
 * [MA Validity Rules](ma-validity-rules.md)
+* [How to Train Sheets](how-to-train-sheets.md)
 * [Training](training.md)
 * [How to Validate](how-to-validate.md)
 * [Understanding Validity](understanding-validity.md)
