@@ -37,6 +37,10 @@ Click on one at the bottom. The sheet will appear in the center of your screen.
 * Zoom by scrolling up or down
 * Drag the sheet around by holding down right-click
 
+## Video Example
+
+{% embed url="https://www.youtube.com/watch?v=iUFXb7gPQO8" %}
+
 ## Step 1: Label Corners
 
 First, we need to label the four corners of the big signature box to _fully encompass_ the border lines, excluding the columns on the left and right, like highlighted below. Remember, _we need to include the outer lines of the box itself._
