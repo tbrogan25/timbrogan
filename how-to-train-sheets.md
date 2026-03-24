@@ -123,9 +123,9 @@ Lastly, we need to splice the county box to tell the sheet-training AI where to 
 
 This is the easiest step.
 
-Left-click and drag your box to slightly include the top and bottom lines of the box (if there is a box) and the words "vote in" on the left and the word "County" on the right.&#x20;
+Left-click and drag your box to slightly include the top, bottom, and right lines of the box (if there is a box), and go as far as the words "vote in" on the left.
 
-<figure><img src=".gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 If there is no box or the words are different, just make an equivalent sized box.
 

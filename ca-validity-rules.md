@@ -265,7 +265,7 @@ Real Example:
 
 At first glance, this may look unusable. However, this is actually a **Valid** signature. Be on the lookout for these cases and take a moment to confirm whether the database last name is actually two names combined.
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (2).png>)
 {% endhint %}
 
 **Married Name Changes**
@@ -365,7 +365,7 @@ You must tag the county of the sheet in the COUNTY dropdown in the top left.
 
 This only needs to be done once per sheet and you will be prompted to do so if it isn't filled out.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you don't see a splice for the county, find it by looking at the full sheet on the right.
 
@@ -377,7 +377,7 @@ If you mark a signature as Failed Match, you will be prompted to enter the signe
 
 This is so we can determine what county the signer is from on our end.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 

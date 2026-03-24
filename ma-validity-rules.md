@@ -14,11 +14,11 @@ The all-caps bolded text above the signature image is the validation decision.&#
 
 Your job is to compare this decision to the actual signature image and determine if they match.
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You also need to compare the town/city decision to the written town/city, which appears only once at the bottom of each page.
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the above example, they do match.
 
