@@ -6,7 +6,7 @@ Sometimes, the AI does not splice correctly. If you're reading this, you have be
 
 1. Identify if any rows on the sheet have not been spliced or have been badly spliced. The below image is an example of a sheet where no rows were spliced
 
-<div data-full-width="true" data-with-frame="true"><figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="true" data-with-frame="true"><figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 2. To delete bad splices and then re-splice them, click the trashcan icon for each bad splice. Once you've done that, click "Apply." Now, you can resplice them.
 
@@ -14,17 +14,17 @@ Sometimes, the AI does not splice correctly. If you're reading this, you have be
 
 To splice, click "Add New Row"
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. On the left, select a corner of the signature that needs splicing and drag to encompass it in its entirety
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Type the correct row number
 
-<div align="center"><figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
-<div align="center"><figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src=".gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 5. Click "Queue Add". This adds this to the queue of changes
 

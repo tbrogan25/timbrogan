@@ -4,7 +4,7 @@ Imagine you’re looking at a signature where the handwriting is **not perfectly
 
 This is the case for almost every signature for at least one field, like their name, address, or city.
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Notice how many fields are partially or fully illegible. The first name is legible (**"Derek"**), but:
 
@@ -27,7 +27,7 @@ Remember, you are **not trying to type exactly what the signer wrote**. Their wr
 
 Instead, you are typing **only what you see** — **small, reliable pieces of information,** or "clues," that Certifi can match to a voter.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Even though this query looks short and incomplete, it is **more effective** than typing everything out.
 
@@ -383,7 +383,7 @@ The signer either misspelled their first name, or it's incorrectly filed in the 
 . miles 1805 23rd .
 ```
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If a city is abbreviated or initialized and you don't know its full name so you can query it, you can confidently skip it with a "." as long as there are enough other details in your query. If not, look up the zip code to find out the city, then type it in.
@@ -397,7 +397,7 @@ If a city is abbreviated or initialized and you don't know its full name so you 
 'sh . 7533 . 'los angeles'
 ```
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If the city is illegible alongside too many other fields (which prevents you from confidently skipping the city field), look up the the zip code to find out.

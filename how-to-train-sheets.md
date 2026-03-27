@@ -2,9 +2,11 @@
 
 ## Setting Up
 
-Tim will send you the application to install.
+Look at the pinned messages in #sheet-training
 
-Then he will DM you the state, project names, and number of sheets per each project that you should train.
+There, you can download the Sheet Labeler application
+
+There, you will also see the state, project names, and number of sheets per each project that you should train.
 
 Select the state
 
@@ -18,9 +20,11 @@ On the left-hand side at the top, all of the turn-ins for this project are liste
 
 You will need to download a turn-in before you can train the sheets that are in them.
 
-The number of sheets in each turn-in are visible to the right, and the individual sheets are visible at the bottom (in this selected turn-in, 2 sheets).
+1. Select multiple turn-ins and downloading them all by holding down Ctrl/Command and clicking multiple
 
-You can do this by clicking on a turn-in then clicking Download Sheets. These will be downloaded to your computer.
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+The number of sheets in each turn-in are visible to the right, and the individual sheets are visible at the bottom (in this selected turn-in, 2 sheets).
 
 <figure><img src=".gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
 
@@ -32,10 +36,26 @@ Click on one at the bottom. The sheet will appear in the center of your screen.
 
 <figure><img src=".gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
 
+#### Blackstripes
+
+30 of your 75 sheets should have contain a blackstriped row on it. This is crucial so we can train the splicing AI to navigate sheets that contain them.
+
+Here's how to tell:
+
+After downloading a lot of turn-ins for your given project, you can filter for sheets that contain blackstripes by clicking the corresponding icon, which is the red square, at the top.&#x20;
+
+Then, simply click on 30 of these sheets and train them!&#x20;
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+A minority of the sheets labeled with a red square may not actually have a blackstripe on them. Make sure to train 30 sheets that actually have a blackstripe on them.
+{% endhint %}
+
 ## Controls
 
 * Zoom by scrolling up or down
-* Drag the sheet around by holding down right-click
+* Drag the sheet around by holding down right-click (step 1), or holding down the scroll wheel (step 2)
 
 ## Video Example
 
@@ -129,7 +149,7 @@ This is the easiest step.
 
 Left-click and drag your box to slightly include the top, bottom, and right lines of the box (if there is a box), and go as far as the words "vote in" on the left.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If there is no box or the words are different, just make an equivalent sized box.
 
@@ -137,4 +157,4 @@ Clicking Confirm Step, then Save in the top right will bring you to the next she
 
 ## Sending your results
 
-To be continued
+We'll discuss getting the results from you this weekend!
