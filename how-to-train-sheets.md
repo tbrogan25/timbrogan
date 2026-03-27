@@ -52,6 +52,14 @@ Then, simply click on 30 of these sheets and train them!&#x20;
 A minority of the sheets labeled with a red square may not actually have a blackstripe on them. Make sure to train 30 sheets that actually have a blackstripe on them.
 {% endhint %}
 
+#### Recent Files First
+
+We want to train the most recently uploaded scans because that quality is consistent with what will get uploaded over the remainder of the project.
+
+The most recent files are at the bottom of the list of turn-ins. Please download these first and begin training these ones.
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ## Controls
 
 * Zoom by scrolling up or down
@@ -149,7 +157,7 @@ This is the easiest step.
 
 Left-click and drag your box to slightly include the top, bottom, and right lines of the box (if there is a box), and go as far as the words "vote in" on the left.
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If there is no box or the words are different, just make an equivalent sized box.
 
