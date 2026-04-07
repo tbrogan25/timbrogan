@@ -199,7 +199,7 @@ You will work with the following validity outcomes:
 * **Valid**
 * **Failed Match:** The signature is readable and properly formatted but the  \
   signer is not registered to vote with the information they provided.
-* **Unusable:** The signature is not readable or not properly formatted,  \
+* **Unusable:** The signature is not properly formatted,  \
   regardless of whether the signer is registered to vote or not.
 
 The sections below first explain **what is acceptable or unacceptable by field**, because this is the easiest way to learn and memorize the rules. After that, you’ll find a summary section explaining **when to use each validity option**.
@@ -245,6 +245,8 @@ There are three important exceptions:
 If a last name is messy and looks like it's missing a few letters, this can still be valid.
 
 If a last name is misspelled or missing a minor amount of letters, this can still be valid.
+
+If you can see the voter in the database with their full name and the last name is clearly shortened, it is **Unusable.** If not, it's a Failed Match, because you don't know if the last name is actually shortened.&#x20;
 
 **Double Last Names**
 
