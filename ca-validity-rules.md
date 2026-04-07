@@ -246,7 +246,7 @@ If a last name is messy and looks like it's missing a few letters, this can stil
 
 If a last name is misspelled or missing a minor amount of letters, this can still be valid.
 
-If you can see the voter in the database with their full name and the last name is clearly shortened, it is **Unusable.** If not, it's a Failed Match, because you don't know if the last name is actually shortened.&#x20;
+If you can see the voter in the database with their full name and the last name is clearly majorly shortened (more than half of the last name is missing), it is **Unusable.** If not, it's a Failed Match, because you don't know if the last name is actually shortened.&#x20;
 
 **Double Last Names**
 
