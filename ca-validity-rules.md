@@ -467,7 +467,7 @@ But for signatures where only one or more fields are crossed out, _but other par
 
 #### 🔴 Unusable
 
-* Signature is structurally disqualified or totally illegible
+* Signature is structurally disqualified
 * Includes:
   * First name is initialized (_T. Brogan)_
   * Last name is majorly abbreviated, shortened, or initialized
