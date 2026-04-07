@@ -236,7 +236,7 @@ These are **Unusable**.
 
 Last names are **not as flexible**.
 
-They **cannot** be majorly shortened, abbreviated, or initialized.
+They **cannot** be majorly shortened, abbreviated, or initialized. If so, they are **Unusable**.
 
 There are three important exceptions:
 
