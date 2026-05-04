@@ -367,7 +367,7 @@ You must tag the county of the sheet in the COUNTY dropdown in the top left.
 
 This only needs to be done once per sheet and you will be prompted to do so if it isn't filled out.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you don't see a splice for the county, find it by looking at the full sheet on the right.
 

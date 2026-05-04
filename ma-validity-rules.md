@@ -2,13 +2,13 @@
 
 ## For Experienced Validators:
 
-Validation rules in Massachusetts are simple to remember and very lax.&#x20;
+The validation rules in Massachusetts are simple to remember and very lax.&#x20;
 
 In Massachusetts, residents get automatically registered to vote. This means almost every signature is from a registered voter. Your job is to find as many of them as possible. The high registration rate makes finding voters much easier.
 
 What formatting makes a signature invalid?
 
-As long as there is an attempt by the signer to write all four core pieces of information, a signature can be considered valid.
+As long as there is an attempt by the signer to write all four core pieces of information and you find a match, a signature can be considered valid.
 
 The four core pieces of information are:
 
@@ -23,38 +23,51 @@ But if any of the four core pieces of information are missing, the signature is 
 
 If you can't determine whether one of the four core pieces of information is missing because of messiness, assume it was written.
 
-In summary:
+A signature will usually accompany the printed first and last name. It is not required that a signature to be present. As long as there a reasonable attempt at a first and last name, whether it is signed or printed, it can be valid.
+
+### Summary
 
 **If you can reasonably decide that a signature belongs to a specific voter,&#x20;**_**you can validate it**_**.**
 
-So if the signature has an initialized first and last name, and it matches only one voter at their address, you can validate it.
-
 Street numbers must match, though, within reason. They can be messy and you can still validate it if a number looks a little different. But clearly different numbers cannot be matched.
 
-This means initialed names are allowed if no one else at the address has that unique initial + last name combination.
+#### What's Allowed:
+
+* Nicknames
+* Initials for first and/or last name
+* Spelling errors, or switched/missing letters
+* Messiness, but the visible letters or clues clearly point to only one voter at an address
+* Data in the wrong boxes
+* Missing or incorrect street suffixes
+* Shortened street names
+* Ditto marks to indicate that their address is the same as the above signer's address
 
 However, these lax validation rules increase the risk of False Positives: signatures that get validated as the wrong voter. This is dangerous. Be very careful not to be found making False Positives. Be confident that your signature and voter actually match each other.
 
 You can be confident by using this rule of thumb: If there are any clear clues in the signatures that differ from a potential match, do not match it.&#x20;
 
-### Invalidity Reasons
+Basically, none of the handwritten name or address should clearly conflict with the voter you're matching it to. For example, if the written last name clearly includes a "gg" but the voter's last name doesn't, that's a strong sign it's not a valid match.
 
-There are two invalidity reasons.
+### Failed Match
 
-#### Failed Match
+This is the only invalidity reason. You choose it when:
 
 * One or more of the four pieces of core information is clearly missing
 * The signer could not be matched to a voter in the database
 
 Very simple. The bulk of your invalid signatures will get marked Failed Match.
 
-#### Wrong Town
+### Municipality Rules
 
 Each petition sheet includes a municipality box, where the town or city is written by the signature-gatherer. Sometimes this will be spliced out and presented to you, sometimes not.
 
-The municipality where the voter is registered to vote must be the same as the municipality written on the bottom of the sheet.
+You must tag the municipality of the sheet in the MUNICIPALITY dropdown in the top left.
 
-If it is not, you must mark the signatures as **Wrong Town**.
+This only needs to be done once per sheet and you will be prompted to do so if it isn't filled out.
+
+If you don't see a splice for the municipality, find it by looking at the full sheet on the right. It could be at the top or bottom.
+
+If there's no municipality, select NO MUNICIPALITY.
 
 {% hint style="warning" %}
 **NOTE: BEWARE OF "VILLAGES"**
@@ -62,27 +75,21 @@ If it is not, you must mark the signatures as **Wrong Town**.
 
 There are a lot of "villages" in MA, which are neighborhoods of real municipalities.
 
-These villages do not show up in the database but they will sometimes get written in the signature box.
+These villages will not show up in your search but they will sometimes get written in the signature box.
 
-This is a problem because if a village name is written in the municipality box and you use it in your searches, then none of the signatures on that sheet will appear!
+This is a problem because if a village name is written in the municipality box and you try to tag a sheet with it, it won't come up, or if you try to use it in your search, then none of the signatures on that sheet will appear!
 
-If the written municipality on the bottom of the sheet differs from the town of the signer, refer to this link to make sure the written town is not a village! Villages are on the left, followed by the real town name.&#x20;
+If the written municipality on the bottom of the sheet doesn't show up when you try to tag it, or if it differs from the municipality of a voter, refer to this link to make sure the written town is not a village! Villages are on the left, followed by the real town name.&#x20;
 
 [https://www.sec.state.ma.us/divisions/cis/historical/archaic-names.htm](https://www.sec.state.ma.us/divisions/cis/historical/archaic-names.htm)
 
 Use Ctrl+F or Cmd+F to search for the written municipality name to see if it's actually a village. If it is a village, you can validate the signature if the village's actual municipality matches the voter's municipality.
 
-{% hint style="info" %}
-We may automate this for you just like we did with CA. So instead, you may need to tag each sheet with the correct town name instead of being on the lookout all the time.
-{% endhint %}
-
-#### Deleting Signatures
+### Deleting Signatures
 
 Delete signatures that are crossed out, blackstriped, or contain nothing in them.
 
 <figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
-
-
 
 <figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
@@ -102,7 +109,7 @@ The all-caps bolded text above the signature image is the validation decision.&#
 
 Your job is to compare this decision to the actual signature image and determine if they match.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You also need to compare the town/city decision to the written town/city, which appears only once at the bottom of each page.
 
