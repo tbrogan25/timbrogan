@@ -2,7 +2,6 @@
 description: >-
   When we refer to a "signature," we are referring to the entire row of one
   person's handwritten data, not just their actual signature.
-hidden: true
 ---
 
 # Understanding Validity

@@ -1,5 +1,93 @@
 # MA Validity Rules
 
+## For Experienced Validators:
+
+Validation rules in Massachusetts are simple to remember and very lax.&#x20;
+
+In Massachusetts, residents get automatically registered to vote. This means almost every signature is from a registered voter. Your job is to find as many of them as possible. The high registration rate makes finding voters much easier.
+
+What formatting makes a signature invalid?
+
+As long as there is an attempt by the signer to write all four core pieces of information, a signature can be considered valid.
+
+The four core pieces of information are:
+
+* First name
+* Last name
+* Street number
+* Street name
+
+Messiness is allowed. Shortening is allowed. Initials are allowed. Misspelling is allowed.
+
+But if any of the four core pieces of information are missing, the signature is invalid.
+
+If you can't determine whether one of the four core pieces of information is missing because of messiness, assume it was written.
+
+In summary:
+
+**If you can reasonably decide that a signature belongs to a specific voter,&#x20;**_**you can validate it**_**.**
+
+So if the signature has an initialized first and last name, and it matches only one voter at their address, you can validate it.
+
+Street numbers must match, though, within reason. They can be messy and you can still validate it if a number looks a little different. But clearly different numbers cannot be matched.
+
+This means initialed names are allowed if no one else at the address has that unique initial + last name combination.
+
+However, these lax validation rules increase the risk of False Positives: signatures that get validated as the wrong voter. This is dangerous. Be very careful not to be found making False Positives. Be confident that your signature and voter actually match each other.
+
+You can be confident by using this rule of thumb: If there are any clear clues in the signatures that differ from a potential match, do not match it.&#x20;
+
+### Invalidity Reasons
+
+There are two invalidity reasons.
+
+#### Failed Match
+
+* One or more of the four pieces of core information is clearly missing
+* The signer could not be matched to a voter in the database
+
+Very simple. The bulk of your invalid signatures will get marked Failed Match.
+
+#### Wrong Town
+
+Each petition sheet includes a municipality box, where the town or city is written by the signature-gatherer. Sometimes this will be spliced out and presented to you, sometimes not.
+
+The municipality where the voter is registered to vote must be the same as the municipality written on the bottom of the sheet.
+
+If it is not, you must mark the signatures as **Wrong Town**.
+
+{% hint style="warning" %}
+**NOTE: BEWARE OF "VILLAGES"**
+{% endhint %}
+
+There are a lot of "villages" in MA, which are neighborhoods of real municipalities.
+
+These villages do not show up in the database but they will sometimes get written in the signature box.
+
+This is a problem because if a village name is written in the municipality box and you use it in your searches, then none of the signatures on that sheet will appear!
+
+If the written municipality on the bottom of the sheet differs from the town of the signer, refer to this link to make sure the written town is not a village! Villages are on the left, followed by the real town name.&#x20;
+
+[https://www.sec.state.ma.us/divisions/cis/historical/archaic-names.htm](https://www.sec.state.ma.us/divisions/cis/historical/archaic-names.htm)
+
+Use Ctrl+F or Cmd+F to search for the written municipality name to see if it's actually a village. If it is a village, you can validate the signature if the village's actual municipality matches the voter's municipality.
+
+{% hint style="info" %}
+We may automate this for you just like we did with CA. So instead, you may need to tag each sheet with the correct town name instead of being on the lookout all the time.
+{% endhint %}
+
+#### Deleting Signatures
+
+Delete signatures that are crossed out, blackstriped, or contain nothing in them.
+
+<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+
+## For New Validators:
+
 Validation is straightforward.&#x20;
 
 There are two types of validation: Match & Search
