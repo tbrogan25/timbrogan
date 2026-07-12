@@ -1,17 +1,5 @@
 # PA Validity Rules
 
-### Validity Options
-
-You will work with the following validity outcomes:
-
-* **Valid**
-* **Failed Match:** The signature is properly formatted but the  \
-  signer is not registered to vote with the information they provided.
-* **Unusable:** The signature is not properly formatted,  \
-  regardless of whether the signer is registered to vote or not.
-
-The sections below first explain **what is acceptable or unacceptable by field**, because this is the easiest way to learn and memorize the rules. After that, you’ll find a summary section explaining **when to use each validity option**.
-
 <figure><img src=".gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
 
 ## Validity Rules
@@ -40,6 +28,8 @@ The six core pieces of information are:
 
 #### What's Not Allowed:
 
+If any of the six core pieces of information are clearly missing, it is invalid.
+
 If there are any clear clues in the signatures that differ from a potential match, do not match it.&#x20;
 
 Basically, none of the handwritten name or address should clearly conflict with the voter you're matching it to. For example, if the written last name clearly includes a "gg" but the voter's last name doesn't, that's a sign it's not a valid match.
@@ -57,7 +47,26 @@ This is the only invalidity reason. You choose it when:
 * One or more of the six pieces of core information is clearly missing or does not align with any voter&#x20;
 * The signer could not be matched to a voter in the database
 
-Very simple. The bulk of your invalid signatures will get marked Failed Match.
+Very simple.&#x20;
 
+### County Rules
 
+Each petition sheet includes a county box, where the county is written by the signature-gatherer.&#x20;
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+You must tag the county of the sheet in the COUNTY dropdown in the top left.
+
+This only needs to be done once per sheet and you will be prompted to do so if it isn't filled out.
+
+If there's no county, select NO COUNTY.
+
+If you find a match from a different county than the one written on the sheet, ignore it. Validate it as you normally would.
+
+{% hint style="warning" %}
+You don't need to think about counties when validating; only when you're tagging the sheet
+{% endhint %}
+
+### Deleting Signatures
+
+Only delete signatures that are crossed out, blackstriped, or contain nothing in them.

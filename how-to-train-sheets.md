@@ -58,7 +58,7 @@ We want to train the most recently uploaded scans because that quality is consis
 
 The most recent files are at the bottom of the list of turn-ins. Please download these first and begin training these ones.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Controls
 
@@ -157,7 +157,7 @@ This is the easiest step.
 
 Left-click and drag your box to slightly include the top, bottom, and right lines of the box (if there is a box), and go as far as the words "vote in" on the left.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If there is no box or the words are different, just make an equivalent sized box.
 
