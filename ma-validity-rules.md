@@ -10,16 +10,18 @@ What formatting makes a signature invalid?
 
 As long as there is an attempt by the signer to write all four core pieces of information and you find a match, a signature can be considered valid.
 
-The four core pieces of information are:
+The six core pieces of information are:
 
-* First name
-* Last name
+* Signature
+* First AND last name&#x20;
 * Street number
 * Street name
+* City, Boro, or Township
+* Date
 
 Messiness is allowed. Shortening is allowed. Initials are allowed. Misspelling is allowed.
 
-But if any of the four core pieces of information are missing, the signature is invalid.
+But if any of the six core pieces of information are missing, the signature is invalid.
 
 If you can't determine whether one of the four core pieces of information is missing because of messiness, assume it was written.
 

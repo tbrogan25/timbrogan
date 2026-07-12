@@ -5,6 +5,7 @@
 * [Your Environment](your-environment.md)
 * [How to Search](how-to-search.md)
 * [CA Validity Rules](ca-validity-rules.md)
+* [PA Validity Rules](pa-validity-rules.md)
 * [How to Manually Splice](how-to-manually-splice.md)
 * [MA Validity Rules](ma-validity-rules.md)
 * [How to Train Sheets](how-to-train-sheets.md)
