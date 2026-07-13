@@ -2,6 +2,14 @@
 
 <figure><img src=".gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
 
+## Splicing
+
+Every signature will need to be manually spliced
+
+Splice the whole row, like this:
+
+<figure><img src=".gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
+
 ## Validity Rules
 
 As long as there is an attempt by the signer to write all six core pieces of information and you find a match, a signature can be considered valid.
