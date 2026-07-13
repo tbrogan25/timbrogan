@@ -6,6 +6,10 @@
 
 Every signature will need to be manually spliced
 
+{% hint style="warning" %}
+The row number needs to be entered correctly, unlike in last projects in which the number did not matter
+{% endhint %}
+
 Splice the whole row, like this:
 
 <figure><img src=".gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
