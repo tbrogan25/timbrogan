@@ -74,7 +74,7 @@ Choose **Failed Match** when the signature is formatted correctly but the inform
 
 ### Unusable
 
-Choose **Unusable** when one or more of the six pieces of core information is clearly missing or does not align with any voter
+Choose **Unusable** when one or more of the six pieces of core information is clearly missing
 
 ### County Rules
 
