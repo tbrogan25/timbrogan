@@ -115,3 +115,5 @@ Instead, simply check this checkbox, and _then_ validate it.&#x20;
 <figure><img src=".gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
+
+You only need to check this for valid signatures. No need to select it for signatures that aren't valid.
