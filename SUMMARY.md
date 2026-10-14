@@ -20,3 +20,4 @@
 * [Your Environment](your-environment-1.md)
 * [How You Search](how-you-search.md)
 * [CA Validity Rules](ca-validity-rules-1.md)
+* [Learning Certifi: Week 2](learning-certifi-week-2.md)
